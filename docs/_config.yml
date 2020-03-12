@@ -28,6 +28,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: michielverhoef/jekyll-theme-vng
+remote_theme: hdksi/jekyll-theme-vng
 
 github: VNG-Realisatie/gemma-zaken
