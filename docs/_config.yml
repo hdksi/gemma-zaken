@@ -24,8 +24,6 @@ plugins:
 
 github: hdksi/gemma-zaken
 
-theme: jekyll-theme-cayman
-
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
 project_name: /gemma-zaken
