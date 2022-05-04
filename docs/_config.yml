@@ -54,9 +54,9 @@ plugins:
 
 github: hdksi/gemma-zaken
 
-remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
+remote_theme: hdksi/jekyll-theme-vng-realisatie
 
-theme: jekyll-theme-vng-realisatie
+theme: jekyll-theme-time-machine
 
 project_name: gemma-zaken
 
