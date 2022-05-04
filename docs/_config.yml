@@ -7,12 +7,12 @@ collections:
     output: true
     permalink: /:path
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "pages"
+#    values:
+#      layout: default
 #  - scope:
 #      path: ""
 #      type: "content"
