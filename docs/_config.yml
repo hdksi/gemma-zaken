@@ -1,3 +1,4 @@
+# old
 collections:
   content:
     output: true
@@ -24,6 +25,9 @@ exclude:
   - archief
   - vendor
 
+theme: jekyll-theme-time-machine
+
+#new
 baseurl: "/gemma-zaken"
 apiname: "GEMMA Zaken"
 url: "http://localhost:4000"
