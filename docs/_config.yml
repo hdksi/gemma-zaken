@@ -56,6 +56,8 @@ github: hdksi/gemma-zaken
 
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
-project_name: /gemma-zaken
+theme: jekyll-theme-vng-realisatie
+
+project_name: gemma-zaken
 
 standard_family: nvt
