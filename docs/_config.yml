@@ -25,7 +25,7 @@ exclude:
   - archief
   - vendor
 
-theme: jekyll-theme-time-machine
+#theme: jekyll-theme-time-machine
 
 #new
 baseurl: "/gemma-zaken"
