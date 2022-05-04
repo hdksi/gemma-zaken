@@ -11,20 +11,12 @@ nav:
     subnav:
       - title: Productvisie
         path: /_content/productvisie
-      - title: Productvisie
-        path: /_content/productvisie
   - title: API-Standaarden
     subnav:
       - title: Zaken API
         path: /_content/standaard/zaken
       - title: Documenten API
         path: /_content/standaard/documenten
-  - title: Vraag en antwoord
-    subnav:
-      - title: FAQ
-        path: /faq
-      - title: Contact
-        path: /contact
 
 plugins:
   - jekyll-redirect-from
