@@ -19,11 +19,11 @@
 #    values:
 #      layout: default
 
-markdown: kramdown
+#markdown: kramdown
 
-exclude:
-  - archief
-  - vendor
+#exclude:
+#  - archief
+#  - vendor
 
 #theme: jekyll-theme-time-machine
 
