@@ -44,9 +44,9 @@ nav:
   - title: API-Standaarden
     subnav:
       - title: Zaken API
-        path: /_content/standaard/zaken
+        path: /_content/standaard/zaken/
       - title: Documenten API
-        path: /_content/standaard/documenten
+        path: /_content/standaard/documenten/
 
 plugins:
   - jekyll-redirect-from
