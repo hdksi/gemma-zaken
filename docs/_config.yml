@@ -44,6 +44,8 @@ nav:
   - title: API-Standaarden
     subnav:
       - title: Zaken API
+        path: /standaard/zaken/
+      - title: Zaken API alt path
         path: /_content/standaard/zaken/
       - title: Documenten API
         path: /_content/standaard/documenten/
