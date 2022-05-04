@@ -1,11 +1,11 @@
 # old
-collections:
-  content:
-    output: true
-    permalink: /:path
-  assets:
-    output: true
-    permalink: /:path
+#collections:
+#  content:
+#    output: true
+#    permalink: /:path
+#  assets:
+#    output: true
+#    permalink: /:path
 
 #defaults:
 #  - scope:
