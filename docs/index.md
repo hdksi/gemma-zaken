@@ -1,6 +1,7 @@
 ---
 title: "API's voor zaakgericht werken"
 header-img: /img/sample-image.jpg
+layout: page-with-side-nav
 date: 12-7-2018
 ---
 
